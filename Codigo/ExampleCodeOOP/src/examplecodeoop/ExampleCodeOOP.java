@@ -16,6 +16,16 @@ public class ExampleCodeOOP {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Mundo, esto es un cambio para GIT");
+        
+        var option = 0;
+        
+        do{
+            System.out.println("===========================");
+            System.out.println("1. Opcion 1");
+            System.out.println("2. Opcion 2");
+            System.out.println("===========================");
+            
+        }while(option > 0);
     }
     
 }
