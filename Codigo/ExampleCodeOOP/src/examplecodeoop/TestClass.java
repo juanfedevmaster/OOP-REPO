@@ -9,5 +9,6 @@ package examplecodeoop;
  * @author jufeq
  */
 public class TestClass {
-    
+    private String name;
+    private String lastName;
 }
